@@ -18,7 +18,7 @@ This course focused on cloud computing concepts, architecture design, and practi
 - Practical project experience in creating a **realistic Azure-based cloud architecture** tailored for medical training simulation, integrating multi-service cloud solutions  
 
 ## Presentation
-📊 View the presentation slides here: [Google Slides]()
+📊 View the presentation slides here: [Google Slides](https://docs.google.com/presentation/d/1Up0rYFxGe3tOxkhgoyZXUYBXhuGH58SJva7EZxshdCg/edit?slide=id.p#slide=id.p)
 
 ## Languages and Utilities Used
 - **Microsoft Azure**  
